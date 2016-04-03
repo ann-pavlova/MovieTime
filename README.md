@@ -1,5 +1,5 @@
 # MovieTime
-Online demo: <a href="http://ann-pavlova.github.io/movieTime" target="_blank">email</a>
+Online demo: [email](http://ann-pavlova.github.io/movieTime)
 
 ## Features
 - Responsive Layout
