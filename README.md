@@ -1,5 +1,6 @@
 # MovieTime
 Online demo: [email](http://ann-pavlova.github.io/movieTime)
+[![MovieTime](https://i.imgur.com/DDNMVAG.png)](http://ann-pavlova.github.io/movieTime)
 
 ## Features
 - Responsive Layout
